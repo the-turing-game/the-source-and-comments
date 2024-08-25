@@ -1,7 +1,16 @@
 # The source and comments
 
 ## The preamble
+Let me quote: 
+> If the meaning of the words "machine" and "think" are to be found by
+examining how they are commonly used it is difficult to escape the conclusion that the
+meaning and the answer to the question, "Can machines think?" is to be sought in a
+statistical survey such as a Gallup poll. But this is absurd.
 
+Mr. Turing is trying to tell us that deciding this question by a simple majority
+voting is not a viable method ('absurd' - wildly unreasonable, illogical, or 
+inappropriate). Note: some 'machine learning' engineers are still using majority
+voting for assessment of certain capabilities of Language Models.
 
 ## The Turing Game
 It is hard to believe that this text had been written by a person with training
