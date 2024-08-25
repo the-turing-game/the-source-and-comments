@@ -19,9 +19,9 @@ almost exactly what he is describing as a "...statistical survey such as Gallup 
 It is hard to believe that this text had been written by a person with training
 in mathematics... First of all, it is more or less clear that the players A and B 
 who are rigidly classified as 'man' (A) and 'woman' (B) are in the beginning of the 
-game assigned symbolic names X and Y, but, instead of clearly saying it in the 
-very beginning we are left with the only option to guess it from the format of 
-the question given in quotes.
+game assigned symbolic names X and Y, but, instead of clearly indicating it the
+author leaves us with the only option to guess it from the format of the question 
+given in quotes.
 
 It gradually occurs to a meticulous enough reader, that not only the game is 
 asymmetric in terms of classes/sex (only a man (A) is supposed to deceive the 
