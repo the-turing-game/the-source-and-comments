@@ -12,7 +12,7 @@ interrogator (C) the woman (B) is _not_ supposed to deceive); more than that, sh
 is supposed to help the interrogator in discovering the deception! 
 This asymmetry of goals as we will see changes the the game from what is 
 routinely called 'the Turing test' to a partly cooperative game with incomplete 
-information, which is more complex.
+information, which is significantly more complex.
 
 The third circumstance that comes out of the description is that players A and B
 are _in the same room_ which means that they have complete information about
