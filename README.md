@@ -16,7 +16,7 @@ contemplate in the rest of the article...
 ## The Turing Game
 It is hard to believe that this text had been written by a person with training
 in mathematics... First of all, it is more or less clear that the players A and B 
-who are rigidly defined as 'man' (A) and 'woman' (B) are in the beginning of the 
+who are rigidly classified as 'man' (A) and 'woman' (B) are in the beginning of the 
 game assigned symbolic names X and Y, but, instead of clearly saying it in the 
 very beginning we are left with the only option to guess it from the format of 
 the question given in quotes.
