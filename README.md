@@ -46,3 +46,11 @@ our original, "Can machines think?"
 So... a Machine will take a place of a _man_ (A) and pretend to be a _woman_ (B) and by 
 the frequency of _mistakes_ of a __deceived__ 'interrogator' (C) we will judge whether 
 this particular Machine 'can think'...
+
+## The conclusion
+And I quote:
+>In any case
+there is no intention to investigate here the theory of the game, and it will be assumed that
+the best strategy is to try to provide answers that would naturally be given by a man.
+
+Good to know. If you don't want to investigate your own game in 1950 - we will do it for you in 2024, if you don't mind.
