@@ -1,4 +1,9 @@
 # The source and comments
+
+## The preamble
+
+
+## The Turing Game
 It is hard to believe that this text had been written by a person with training
 in mathematics... First of all, it is more or less clear that the players A and B 
 who are rigidly defined as 'man' (A) and 'woman' (B) are in the beginning of the 
