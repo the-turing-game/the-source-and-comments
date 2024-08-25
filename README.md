@@ -49,7 +49,9 @@ this particular Machine 'can think'...
 
 ## The conclusion
 And I quote:
->In any case
+>It might be urged that when playing the "imitation game" _**the best strategy for the
+machine may possibly be something other than imitation of the behaviour of a man**_. This
+may be, but I think it is unlikely that there is any great effect of this kind. In any case
 there is no intention to investigate here the theory of the game, and it will be _**assumed**_ that
 the best strategy is to try to provide answers that would naturally be given by a man.
 
