@@ -1,14 +1,19 @@
 A game which we call the 'imitation game' is played with three people, a man (A), a woman (B),
 and an interrogator (C) who may be of either sex.  
 
-The object of the game for the interrogator is to determine which of the other
-two is the man and which is the woman. He knows them by labels X and Y, and at the
-end of the game he says either "X is A and Y is B" or "X is B and Y is A."
+The participants are located in two rooms isolated from each other. The interrogator (C) stays 
+in a room apart front the other two; the participants A and B are in the same room.
 
-The interrogator stays in a room apart front the other two. The interrogator is allowed to put
-questions to X and Y and they must answer. The questions and answers are communicated between 
-the two rooms by a teleprinter.
+The object of the game for the interrogator is to determine which of the other two is the man 
+and which is the woman. He knows them by labels X and Y, and at the end of the game he says 
+either "X is A and Y is B" or "X is B and Y is A."
+
+The interrogator is allowed to put questions to X and Y. If a question is addressed to X then 
+X must answer. The answering participant is allowed to add true or deceptive statements to 
+the answer.
+
+The questions and answers are communicated between the two rooms by a teleprinter.
 
 It is A's object in the game to try and cause C to make the wrong identification.
 
-The object of the game for the player B is to help the interrogator.
+The object of the game for the player B is to help the interrogator (C).
