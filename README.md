@@ -17,4 +17,5 @@ information, which is significantly more complex.
 The third circumstance that comes out of the description is that players A and B
 are _in the same room_ which means that they have complete information about
 the answers and statements of each other! ...and, of course, that was the 'fun'
-part of the 'salon game' - the prototype of the 'Turing Game'. 
+part (for other people present in the room) of the 'salon game' - the prototype 
+of this 'Turing Game'. 
