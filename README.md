@@ -9,8 +9,9 @@ statistical survey such as a Gallup poll. But this is absurd.
 
 Mr. Turing is trying to tell us that deciding this question by a simple majority
 voting is not a viable method ('absurd' - wildly unreasonable, illogical, or 
-inappropriate). Note: some 'machine learning' engineers are still using majority
-voting for assessment of certain capabilities of Language Models.
+inappropriate), but somehow it sounds as a rejection of any measurable response 
+of the Society to the experiments with automated deception that he is about to 
+contemplate in the rest of the article...
 
 ## The Turing Game
 It is hard to believe that this text had been written by a person with training
