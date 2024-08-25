@@ -11,7 +11,9 @@ Mr. Turing is trying to tell us that deciding this question by a simple majority
 voting is not a viable method ('absurd' - wildly unreasonable, illogical, or 
 inappropriate), but somehow it sounds as a rejection of any measurable response 
 of the Society to the experiments with automated deception that he is about to 
-contemplate in the rest of the article...
+contemplate in the rest of the article...<br>
+However! If you think about the procedure of training Large Language Models it is
+almost exactly what he is describing as a "...statistical survey such as Gallup poll."
 
 ## The Turing Game
 It is hard to believe that this text had been written by a person with training
