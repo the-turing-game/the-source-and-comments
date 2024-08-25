@@ -55,4 +55,4 @@ may be, but I think it is unlikely that there is any great effect of this kind. 
 there is no intention to investigate here the theory of the game, and it will be _**assumed**_ that
 the best strategy is to try to provide answers that would naturally be given by a man.
 
-Good to know. If you didn't want to investigate your own game in 1950 - we will do it for you in 2024, if you don't mind.
+Good to know. If you didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
