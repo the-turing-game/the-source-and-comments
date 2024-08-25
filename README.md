@@ -25,7 +25,8 @@ the answers and statements of each other! ...and, of course, that was the 'fun'
 part (for other people present in the room) of the 'salon game' - the prototype 
 of this 'Turing Game'. 
 
-And then - this: > We now ask the question, "What will happen when a machine takes the part of A in this
+And then - this: 
+> We now ask the question, "What will happen when a machine takes the part of A in this
 game?" Will the interrogator decide wrongly as often when the game is played like this as
 he does when the game is played between a man and a woman? These questions replace
 our original, "Can machines think?"
