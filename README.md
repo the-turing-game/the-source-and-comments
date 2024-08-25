@@ -30,3 +30,7 @@ And then - this:
 game?" Will the interrogator decide wrongly as often when the game is played like this as
 he does when the game is played between a man and a woman? These questions replace
 our original, "Can machines think?"
+
+So... a Machine will take a place of a _man_ (A) and pretend to be a _woman_ (B) and by 
+the frequency of _mistakes_ of a __deceived__ 'interrogator' (C) we will judge whether 
+this particular Machine 'can think'...
