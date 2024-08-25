@@ -10,7 +10,7 @@ It gradually occurs to a meticulous enough reader, that not only the game is
 asymmetric in terms of classes/sex (only a man (A) is supposed to deceive the 
 interrogator (C) the woman (B) is _not_ supposed to deceive); more than that, she
 is supposed to help the interrogator in discovering the deception! 
-This asymmetry of goals as we will see changes the the game from what is 
+This asymmetry of goals as we will see changes the game from what is 
 routinely called 'the Turing test' to a partly cooperative game with incomplete 
 information, which is significantly more complex.
 
