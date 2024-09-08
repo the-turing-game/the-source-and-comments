@@ -53,7 +53,7 @@ _might_ mean and how this meaning can be utilized by our contemporaries in their
 pursuit of tenure track positions and steady income. As it turned out the unknown 
 author had already done that and posted a pretty exhaustive overview under the title 
 [Turing Test](https://singularity2030.ch/wp-content/uploads/2016/07/Wiki-Book-on-Turing-Test.pdf) on
-the 'singularity2030' website. As Feinman used to say: "If somebody has done it 
+the 'singularity2030' website. As Richard Feinman used to say: "If somebody has done it 
 already - so the better for me." The article is pretty exhaustive and can enlighten
 your winding path through the layers of fossilized 'interpretations' and sedimentary rocks
 of 'objections'.
