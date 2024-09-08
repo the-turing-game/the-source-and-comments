@@ -12,7 +12,7 @@ The other parts of this volume include:
 - VII.—CRITICAL NOTICE, by C. D. BROAD;
 - VIII.—NEW BOOKS, by MAURICE CRANSTON and MARTHA KNEALE.
 
-So, that you would get the idea of the overall context of the volume.
+...so, that you would get the idea of the overall context of the it.
 
 ## The preamble
 Let me quote: 
