@@ -1,4 +1,7 @@
 # The source and comments
+## The article authored by Mr. Turing in 1950
+The article in the _philosophical_ magazine Mind, a quarterly review in _psychology_ and philosophy is entitled
+"COMPUTING MACHINERY AND INTELLIGENCE" by A.M. Turing (see the facsimile of it attached).
 
 ## The preamble
 Let me quote: 
