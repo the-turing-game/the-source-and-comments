@@ -47,6 +47,17 @@ So... a Machine will take a place of a _man_ (A) and pretend to be a _woman_ (B)
 the frequency of _mistakes_ of a __deceived__ 'interrogator' (C) we will judge whether 
 this particular Machine 'can think'...
 
+## Other sources
+I wanted to make a brief overview of the endless 'discussion' around this article, what it
+_might_ mean and how this meaning can be utilized by our contemporaries in their
+pursuit of tenure track positions and steady income. As it turned out the unknown 
+author had already done that and posted a pretty exhaustive overview under the title 
+[Turing Test](https://singularity2030.ch/wp-content/uploads/2016/07/Wiki-Book-on-Turing-Test.pdf) on
+the 'singularity2030' website. As Feinman used to say: "If somebody has done it 
+already - so the better for me." The article is pretty exhaustive and can enlighten
+your winding path through the layers of fossilized 'interpretations' and sedimentary rocks
+of 'objections'.
+
 ## The conclusion
 And I quote:
 >It might be urged that when playing the "imitation game" _**the best strategy for the
@@ -56,3 +67,5 @@ there is no intention to investigate here the theory of the game, and it will be
 the best strategy is to try to provide answers that would naturally be given by a man.
 
 Good to know. If you didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
+
+I'm going to distill the definition of the game and from now on will call it [**The Game of Turing**]() after the inventor of its zeroth version.
