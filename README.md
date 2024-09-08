@@ -28,6 +28,7 @@ of the Society at large to the experiments with automated deception that he is a
 contemplate in the rest of the article...<br>
 However! If you think about the procedure of training Large Language Models it is
 almost exactly what he is describing as a "...statistical survey such as Gallup poll."
+ I will just leave you with this thought here.
 
 ## The Turing Game
 It is hard to believe that this text had been written by a person with training
