@@ -83,4 +83,7 @@ the best strategy is to try to provide answers that would naturally be given by 
 
 Good to know. If you didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
 
-I'm going to distill the definition of the game and from now on will call it [**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing) after the inventor of its zeroth version.
+In order to make it useful for this day and age I'm going to distill the definition of 
+the game; you can call it a different name if you want, but and from now on will call it 
+[**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing) after 
+the inventor of its initial version.
