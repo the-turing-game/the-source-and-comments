@@ -81,9 +81,16 @@ may be, but I think it is unlikely that there is any great effect of this kind. 
 there is no intention to investigate here the theory of the game, and it will be _**assumed**_ that
 the best strategy is to try to provide answers that would naturally be given by a man.
 
-Good to know. If you didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
+Good to know (all the bold and italic highlighting is mine). If you, Mr. Turing 
+didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
 
 In order to make it useful for this day and age I'm going to distill the definition of 
-the game; you can call it a different name if you want, but and from now on will call it 
-[**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing) after 
+the game. It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
+If you are interested in reading my argumentaion and explanations you are welcome to
+read it there.<br>
+If you just want to get to the final definition and description of my version of the game - go
+directly to 
+[**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing). You can call it 
+a different name if you want (I heard versions like "The game with super-intelligence", or 
+"cooperation-deception game"), but and from now on I will call it "The Game of Turing" after 
 the inventor of its initial version.
