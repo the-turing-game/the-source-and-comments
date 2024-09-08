@@ -1,6 +1,6 @@
 # The source and comments
 ## The article authored by Mr. Turing in 1950
-The article in the magazine "**Mind, a quarterly review in _psychology_ and philosophy**", 
+The article in the magazine "**Mind, a quarterly review in psychology and philosophy**", 
 opening the **LIX** volume of it, is entitled:
 "I.—COMPUTING MACHINERY AND INTELLIGENCE" by A.M. Turing (see the facsimile of it attached).
 The other parts of this volume include:
