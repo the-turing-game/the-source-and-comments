@@ -84,13 +84,14 @@ the best strategy is to try to provide answers that would naturally be given by 
 Good to know (all the bold and italic highlighting is mine). If you, Mr. Turing 
 didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
 
-In order to make it useful for this day and age I'm going to distill the definition of 
-the game. It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
+In order to make it useful for this day and age I'm going to extract the essense of 
+the problem of deception of men by machines and formulate it as a set of rules of a game. 
+It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
 If you are interested in reading my argumentaion and explanations you are welcome to
 read it there.<br>
-If you just want to get to the final definition and description of my version of the game - go
+If you just want to get to the final definition and description of my version of the new game - go
 directly to 
 [**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing). You can call it 
 a different name if you want (I heard versions like "The game with super-intelligence", or 
-"cooperation-deception game"), but and from now on I will call it "The Game of Turing" after 
+"cooperation-deception game"), but from now on I will call it "The Game of Turing" after 
 the inventor of its initial version.
