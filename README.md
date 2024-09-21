@@ -2,7 +2,7 @@
 ## The article authored by Mr. Turing in 1950
 The article in the magazine "**Mind, a quarterly review in psychology and philosophy**", 
 opening the **LIX** volume of it, is entitled:
-"I.—COMPUTING MACHINERY AND INTELLIGENCE" by A.M. Turing (see the facsimile of it attached).
+"I.—COMPUTING MACHINERY AND INTELLIGENCE" by A.M. Turing ([see the facsimile of it attached](https://github.com/the-turing-game/the-source-and-comments/blob/main/The-Turing-Article.pdf)).
 The other parts of this volume include:
 - II.—SUBJECT AND PREDICATE, by PETER THOMAS GEACH;
 - III.—FREGE'S SINN UND BEDEUTUNG, by PAUL D. WIENPAHL;
@@ -12,7 +12,7 @@ The other parts of this volume include:
 - VII.—CRITICAL NOTICE, by C. D. BROAD;
 - VIII.—NEW BOOKS, by MAURICE CRANSTON and MARTHA KNEALE.
 
-...so, that you would get the idea of the overall context of [the original article from 1950](https://github.com/the-turing-game/the-source-and-comments/blob/main/The-Turing-Article.pdf).
+...so, that you would get the idea of the overall context of [the original A.M. Turing article from 1950](https://github.com/the-turing-game/the-source-and-comments/blob/main/The-Turing-Article.pdf).
 
 ## The preamble
 Let me quote: 
