@@ -94,4 +94,4 @@ directly to
 [**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing). You can call it 
 a different name if you want (I heard versions like "The game with super-intelligence", or 
 "cooperation-deception game"), but from now on I will call it "The Game of Turing" after 
-the inventor of its initial version.
+the inventor of this game of deception.
