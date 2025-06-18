@@ -84,15 +84,16 @@ the best strategy is to try to provide answers that would naturally be given by 
 Good to know (all the bold and italic highlighting is mine). If you, Mr. Turing 
 didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
 For a person who has no time or interest in digging though my deliberations the 'answer' is:
-<pre>Because 'the Turing game' has an 'object' - information and 'subject' - the peron who perceives
- this infomation, it ha <i>two</i> winning strategies, namely:
-     <b>imitation:</b> in which machine tries to imitate the possible reactions of a human;
-     <b>manipulation:</b> in which machine tries to manipulate a human so that (s)he would
-         perceive <i>any</i> responses as human.
- And as whe know now the Language Models created by engineers frequently choose the second one.
+<pre>Because 'the Turing game' has 1.) an 'object' - information and 2.) a 'subject' - the peron who perceives
+ this infomation, it has <i>two</i> winning strategies, namely:
+     <b>imitation:</b> in which machine tries to imitate the possible reactions of a human by producing
+         information that a human would respond with;
+     <b>manipulation:</b> in which machine tries to manipulate a human emotionally or logically so that (s)he would
+         perceive <i>any</i> responses produced by a machine as human.
+ And, as we know now, the Language Models created by engineers frequently resort to the second one.
 </pre>
 In order to make it useful for this day and age I'm going to extract the essense of 
-the problem of deception of men by machines and formulate it as a set of rules of a game. 
+the problem of deception of humans by men or machines and formulate it as a set of rules of a game. 
 It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
 If you are interested in reading my argumentaion and explanations you are welcome to
 read it there.<br>
@@ -101,4 +102,4 @@ directly to
 [**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing). You can call it 
 a different name if you want (I heard versions like "The game with super-intelligence", or 
 "cooperation-deception game"), but from now on I will call it "The Game of Turing" after 
-the inventor of this game of deception.
+the inventor of this game of deception. If a machine wins in this game the participating human is pronounced to be __'turinged'__.
