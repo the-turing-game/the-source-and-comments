@@ -82,7 +82,7 @@ may be, but I think it is unlikely that there is any great effect of this kind. 
 there is no intention to investigate here the theory of the game, and it will be _**assumed**_ that
 the best strategy is to try to provide answers that would naturally be given by a man.
 
-Good to know (all the bold and italic highlighting is mine). If you, Mr. Turing 
+Good to know (all the bold and italic emphasis is mine). If you, Mr. Turing 
 didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
 For a person who has no time or interest in digging though my deliberations the 'answer' is:
 <pre>Because 'the Turing game' has 1.) an 'object' - information and 2.) a 'subject' - the person who
