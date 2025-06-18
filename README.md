@@ -89,7 +89,7 @@ For a person who has no time or interest in digging though my deliberations the 
 perceives this infomation, it has <i>two</i> winning strategies, namely:
      <b>imitation:</b> in which machine tries to imitate the possible reactions of a human by
          producing information that a human would respond with;
-     <b>manipulation:</b> in which machine tries to manipulate a human emotionally or logically so 
+     <b>manipulation:</b> in which machine tries to manipulate a human emotionally or logically so
         that (s)he would perceive <i>any</i> (arbitrary) responses produced by a machine as human.
 And, as we know now, Language Models created by engineers frequently resort to the second one.
 </pre>
