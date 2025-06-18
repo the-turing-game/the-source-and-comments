@@ -83,7 +83,12 @@ the best strategy is to try to provide answers that would naturally be given by 
 
 Good to know (all the bold and italic highlighting is mine). If you, Mr. Turing 
 didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
-
+For a person who has no time or interest in digging though my deliberations the 'answer' is:
+<pre>The 'the Turing game' has <i>two</i> winning strategies, namely:
+     <b>imitation:</b> in which machine tries to imitate the possible reactions of a human;
+     <b>manipulation:</b> in which machine tries to manipulate a human so that (s)he would
+         perceive <i>any</i> responses as human.
+</pre>
 In order to make it useful for this day and age I'm going to extract the essense of 
 the problem of deception of men by machines and formulate it as a set of rules of a game. 
 It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
