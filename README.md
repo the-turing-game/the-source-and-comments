@@ -85,12 +85,12 @@ the best strategy is to try to provide answers that would naturally be given by 
 Good to know (all the bold and italic highlighting is mine). If you, Mr. Turing 
 didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
 For a person who has no time or interest in digging though my deliberations the 'answer' is:
-<pre>Because 'the Turing game' has 1.) an 'object' - information and 2.) a 'subject' - the person who perceives
-this infomation, it has <i>two</i> winning strategies, namely:
-     <b>imitation:</b> in which machine tries to imitate the possible reactions of a human by producing
-         information that a human would respond with;
-     <b>manipulation:</b> in which machine tries to manipulate a human emotionally or logically so that (s)he would
-         perceive <i>any</i> responses produced by a machine as human.
+<pre>Because 'the Turing game' has 1.) an 'object' - information and 2.) a 'subject' - the person who
+perceives this infomation, it has <i>two</i> winning strategies, namely:
+     <b>imitation:</b> in which machine tries to imitate the possible reactions of a human by
+         producing information that a human would respond with;
+     <b>manipulation:</b> in which machine tries to manipulate a human emotionally or logically so 
+        that (s)he would perceive <i>any</i> (arbitrary) responses produced by a machine as human.
 And, as we know now, the Language Models created by engineers frequently resort to the second one.
 </pre>
 In order to make it useful for this day and age I'm going to extract the essense of 
