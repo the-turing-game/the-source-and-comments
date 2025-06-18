@@ -85,7 +85,7 @@ the best strategy is to try to provide answers that would naturally be given by 
 Good to know (all the bold and italic emphasis is mine). If you, Mr. Turing 
 didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
 For a person who has no time or interest in digging though my deliberations the 'answer' is:
-<pre>Because 'the Turing game' has 1.) an 'object' - information and 2.) a 'subject' - the person who
+<pre>Because 'the Turing game' has: 1.) an 'object' - information and 2.) a 'subject' - the person who
 perceives this infomation, it has <i>two</i> winning strategies, namely:
      <b>imitation:</b> in which machine tries to imitate the possible reactions of a human by
          producing information that a human would respond with;
