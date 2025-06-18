@@ -92,8 +92,8 @@ perceives this infomation, it has <i>two</i> winning strategies, namely:
      <b>manipulation:</b> in which machine tries to manipulate a human ('subject') emotionally or 
          logically so that (s)he would perceive <i>any</i> (arbitrary) responses produced by a 
          machine as human.
-And, as we know now, it is not 'unlikely' but highly likely that Language Models created by engineers
-resort to the second one.
+And, as we know now, it is not 'unlikely' but highly likely that Language Models created by
+engineers resort to the second one.
 </pre>
 In order to make it useful for this day and age I'm going to extract the essense of 
 the problem of deception of humans by men or machines and formulate it as a set of rules of a game. 
