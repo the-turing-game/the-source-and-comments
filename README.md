@@ -88,7 +88,7 @@ For a person who has no time or interest in digging though my deliberations the 
 <pre>Because 'the Turing game' has: 1.) an 'object' - information; and 2.) a 'subject' - the person
 who perceives this infomation, it has <i>two</i> winning strategies, namely:
      <b>imitation:</b> in which machine tries to imitate the possible reactions of a human by
-         producing information that a human would respond with;
+         producing information that a human would;
      <b>manipulation:</b> in which machine tries to manipulate a human ('subject') emotionally or 
          logically so that (s)he would perceive <i>any</i> (arbitrary) responses produced by a 
          machine as human.
