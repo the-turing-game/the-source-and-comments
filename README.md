@@ -97,6 +97,7 @@ the problem of deception of humans by men or machines and formulate it as a set 
 It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
 If you are interested in reading my argumentaion and explanations you are welcome to
 read it there.<br>
+
 If you just want to get to the final definition and description of my version of the new game - go
 directly to 
 [**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing). You can call it 
