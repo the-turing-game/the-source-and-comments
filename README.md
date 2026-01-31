@@ -86,7 +86,6 @@ Good to know (all the bold and italic emphasis is mine). If you, Mr. Turing
 didn't want to investigate your own game in 1950 - we will do it for you in 2024... and on, and on... if you don't mind.
 For a person who has no time or interest in digging though my deliberations here is my conclusion (sorry for the enlarged font it is for the people suffering from Attention Deficit)
 # Let me be clear:
-<div style="font-size:125%;">
 Because "the Turing game" has:  1.) an 'object' - information; and 2.) a 'subject' - the person
 who perceives this information, it has not one, but <b><i>two</i></b> winning strategies, namely:
 
@@ -96,9 +95,10 @@ who perceives this information, it has not one, but <b><i>two</i></b> winning st
 - **manipulation:** in which machine tries to manipulate a human ('subject') emotionally or logically so that (s)he would perceive __*arbitrary*__ (read - "any") responses produced by a machine as "human".
 
 And, as we know now, it is not 'unlikely' but 'highly likely' that Language Models created by
-'engineers' resort to the second one.</div>
+'engineers' resort to the second one.
 
-In order to make it useful for this day and age I'm going to extract the essense of 
+## What now?
+In order to make it useful for this day and age I'm going to extract the essence of 
 the problem of deception of humans by men or machines and formulate it as a set of rules of a game. 
 It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
 If you are interested in reading my argumentaion and explanations you are welcome to
