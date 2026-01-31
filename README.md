@@ -83,18 +83,21 @@ there is no intention to investigate here the theory of the game, and it will be
 the best strategy is to try to provide answers that would naturally be given by a man.
 
 Good to know (all the bold and italic emphasis is mine). If you, Mr. Turing 
-didn't want to investigate your own game in 1950 - we will do it for you in 2024... if you don't mind.
-For a person who has no time or interest in digging though my deliberations the 'answer' is:
-<pre>Because 'the Turing game' has: 1.) an 'object' - information; and 2.) a 'subject' - the person
-who perceives this infomation, it has <i>two</i> winning strategies, namely:
-     <b>imitation:</b> in which machine tries to imitate the possible reactions of a human by
+didn't want to investigate your own game in 1950 - we will do it for you in 2024... and on, and on... if you don't mind.
+For a person who has no time or interest in digging though my deliberations here is my conclusion (sorry for the enlarged font it is for the people suffering from Attention Deficit)
+# Let me be clear:
+<font size="5">
+Because 'the Turing game' has:  1.) an 'object' - information; and 2.) a 'subject' - the person
+who perceives this information, it has not one, but __*two*__ winning strategies, namely:
+
+- **imitation:** in which machine tries to imitate the possible reactions of a human by
          producing information that a human would;
-     <b>manipulation:</b> in which machine tries to manipulate a human ('subject') emotionally or 
-         logically so that (s)he would perceive <i>any</i> (arbitrary) responses produced by a 
-         machine as human.
+
+- **manipulation:** in which machine tries to manipulate a human ('subject') emotionally or logically so that (s)he would perceive __*arbitrary*__ (read - "any") responses produced by a machine as "human".
+
 And, as we know now, it is not 'unlikely' but 'highly likely' that Language Models created by
-engineers resort to the second one.
-</pre>
+'engineers' resort to the second one.</font>
+
 In order to make it useful for this day and age I'm going to extract the essense of 
 the problem of deception of humans by men or machines and formulate it as a set of rules of a game. 
 It will require a bit of an [analysis](https://github.com/the-turing-game/the-analysis). 
