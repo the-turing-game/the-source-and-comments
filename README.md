@@ -109,4 +109,4 @@ directly to
 [**The Game of Turing**](https://github.com/the-turing-game/the-game-of-turing). You can call it 
 a different name if you want (I heard versions like "The game with super-intelligence", or 
 "cooperation-deception game"), but from now on I will call it "The Game of Turing" after 
-the inventor of deception as a mathematized game. If a machine wins in this game the participating human is pronounced to be __'turinged'__.
+the inventor of "mathematized" game of deception. If a machine wins in this game the participating human is pronounced to be __'turinged'__.
